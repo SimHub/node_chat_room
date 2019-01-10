@@ -20,6 +20,7 @@ const port = 3000;
 
 //// LOCAL MONGODB_DB_URL ////
 const mongodb_connection_string = 'mongodb://127.0.0.1:27017/' + dbName;
+// const mongodb_connection_string = 'mongodb://127.0.0.1:27017/';
 
 
 app.use(express.static(__dirname + '/public'));
