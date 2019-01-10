@@ -8,11 +8,11 @@ NodeJs Mongodb Socket.io Realtime chat
 
 <br>
 
-#### Start mongodb:  
+##### Start mongodb: <Terminal>
 
     $ mongod  
 
-### Start app  
+### Start app: <separate Terminal>
 
     $ cd <pathTo>/node_chat_room/   
     $ npm install  
@@ -23,7 +23,14 @@ NodeJs Mongodb Socket.io Realtime chat
 *Open your favourite browser at localhost:3000*   
 
 <br>  
-## Desktop   
+## Desktop    
+
+ <img src="video/nodeRoomChat01_smaller.gif" alt="node_chat_desktop1.gif"/>  
+ <img src="video/nodeRoomChat02_smaller.gif" alt="node_chat_desktop2.gif"/>  
+  
+#### Web App 
+   
+  <img src="video/node_chat_iphone.gif" alt="node_chat_iphone.gif"/>
 
 
 
