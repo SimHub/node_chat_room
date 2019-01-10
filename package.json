@@ -1,0 +1,35 @@
+{
+  "name": "simonSays-nodejs-room-chat-App",
+  "version": "1.0.0",
+  "description": "Node js chat application",
+  "keywords": [
+    "Room",
+    "Node.js",
+    "application",
+    "Chat",
+    "Whisper",
+    "Secret",
+    "jQuery",
+    "Javascript"
+  ],
+  "author": {
+    "name": "Simhub",
+    "email": "simhub.dev@gmail.com",
+    "url": "http://simhub.github.io/portfolio/#"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimHub/node_chat_room"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "socket.io": "^2.2.0"
+  }
+}
