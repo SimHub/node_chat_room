@@ -3,8 +3,8 @@ NodeJs Mongodb Socket.io Realtime chat
 
 ### Setup  
 
-+ Install Node js Read docs  
-+ Install mongodb mongodb 
++ [Install Node.js](https://nodejs.org/en/) /app was tested on version 10.15+
++ [Install mongodb mongodb](https://www.mongodb.com/download-center/community) /app was tested on version 4+
 
 <br>
 
