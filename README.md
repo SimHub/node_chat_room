@@ -1,4 +1,6 @@
-# node_chat_room
+### node_chat_room  
+[![Known Vulnerabilities](https://snyk.io/test/github/SimHub/node_chat_room/badge.svg?targetFile=package.json)](https://snyk.io/test/github/SimHub/node_chat_room?targetFile=package.json)  
+
 NodeJs Mongodb Socket.io Realtime chat
 
 ### Setup  
